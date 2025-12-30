@@ -4,3 +4,4 @@ if x>=18:
 
 else:
     print("Not eligible for vote")
+print("hahahaha")
